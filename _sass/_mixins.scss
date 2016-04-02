@@ -57,6 +57,12 @@
 
 @mixin sans-serif-font()
 {
+	font-family: 'Nau';
+  src: url('../fonts/Nautilus.otf');
+}
+
+@mixin sans-serif-font()
+{
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 

@@ -165,6 +165,7 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
+                @include 'Nau'
                 font-family: 'Nau';
                 font-weight: 700;
                 text-transform: uppercase;
