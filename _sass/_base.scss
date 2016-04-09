@@ -29,7 +29,9 @@ a {
 
 h1,
 h2,
-h3,
+h3 {
+  @include sans-serif-font;
+}
 h4,
 h5,
 h6 {
