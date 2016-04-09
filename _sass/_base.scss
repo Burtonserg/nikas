@@ -42,6 +42,11 @@ p {
     margin-bottom: 20px;
 }
 
+p1 {
+    font-size: 30px;
+    max-width: 80%;
+}
+
 .bg-primary {
     background-color: $theme-primary;
 }
@@ -181,10 +186,7 @@ header {
                 margin-bottom: 50px;
             }
 
-            p1 {
-                font-size: 30px;
-                max-width: 80%;
-            }
+
         }
     }
     @media (min-width: 768px) {
