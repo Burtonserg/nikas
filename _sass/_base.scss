@@ -162,7 +162,7 @@ header {
     color: white;
     .header-content {
         position: relative;
-        text-align: center;
+        /*text-align: center;*/
         padding: 100px 15px 100px;
         width: 100%;
         .header-content-inner {
@@ -172,17 +172,18 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
+                text-align: center;
             }
             hr {
                 margin: 30px auto;
             }
-            /*p {
+            p {
                 font-weight: 300;
                 color: rgba(white, .7);
-                font-size: 30px;
+                font-size: 60px;
                 margin-bottom: 50px;
             }
-            */
+
 
 
         }
