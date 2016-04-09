@@ -30,7 +30,7 @@ a {
 h1,
 h2,
 h3 {
-  @include sans-serif-font;
+    @include sans-serif-font;
 }
 h4,
 h5,
@@ -42,12 +42,6 @@ p {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 20px;
-}
-
-p1 {
-    font-size: 30px;
-    max-width: 80%;
-    text-align: left;
 }
 
 .bg-primary {
@@ -185,7 +179,7 @@ header {
             p {
                 font-weight: 300;
                 color: rgba(white, .7);
-                font-size: 16px;
+                font-size: 30px;
                 margin-bottom: 50px;
             }
 
