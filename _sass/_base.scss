@@ -330,6 +330,7 @@ header {
 
 .btn-primary {
     @include button-variant(white, $theme-primary, $theme-primary);
+    width:200px;
 }
 
 .btn {
