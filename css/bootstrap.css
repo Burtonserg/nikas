@@ -1428,9 +1428,7 @@ dl {
   margin-top: 0;
   margin-bottom: 20px;
 }
-dt{
-  width: 300px;
-}
+dt,
 dd {
   line-height: 1.42857143;
 }
@@ -1443,7 +1441,7 @@ dd {
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: left;
-    width: 160px;
+    width: 280px;
     overflow: hidden;
     clear: left;
     text-align: right;
