@@ -43,6 +43,11 @@ h6 {
     src: url('../fonts/Matador.otf');
 }
 
+@font-face {
+    font-family: nau;
+    src: url('../fonts/Nautilus.otf');
+}
+
 div {
     font-family: myFirstFont;
 }
@@ -191,6 +196,10 @@ header {
                 color: rgba(white, .7);
                 font-size: 60px;
                 margin-bottom: 50px;
+            }
+
+            h3 {
+                font-family: nau;
             }
 
 
