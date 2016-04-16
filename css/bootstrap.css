@@ -1428,7 +1428,9 @@ dl {
   margin-top: 0;
   margin-bottom: 20px;
 }
-dt,
+dt{
+  width: 300px;
+}
 dd {
   line-height: 1.42857143;
 }
