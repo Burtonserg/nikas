@@ -213,6 +213,19 @@ header {
     }
 }
 
+div {
+  width: 250px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
 // Sections
 
 .section-heading {
